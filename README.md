@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of littlecxm/flarum-reply-to-see.** Not for installation: use [Packagist](https://packagist.org/packages/littlecxm/flarum-reply-to-see) or the [upstream repository](https://github.com/littlecxm/flarum-reply-to-see).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/littlecxm-flarum-reply-to-see/tree/archive/v1.0.2) · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/littlecxm-flarum-reply-to-see/tree/archive/v1.0.2) · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-01-25 | `^1.2.0` | [Browse](https://github.com/flarchive/littlecxm-flarum-reply-to-see/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-01-26 | `^1.2.0` | [Browse](https://github.com/flarchive/littlecxm-flarum-reply-to-see/tree/archive/v1.0.1) |
+| `1.0.2` | 2022-01-26 | `^1.2.0` | [Browse](https://github.com/flarchive/littlecxm-flarum-reply-to-see/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/littlecxm-flarum-reply-to-see.json](https://github.com/flarchive/archive-index/blob/main/packages/littlecxm-flarum-reply-to-see.json)
 
